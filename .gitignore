@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/
+.env
+.vscode/
+sorted/
