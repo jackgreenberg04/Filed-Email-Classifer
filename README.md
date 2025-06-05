@@ -26,4 +26,4 @@ This project provides a simple email classification system built with Python. It
    ```bash
    python -m email_classifier.cli --batch incoming_emails --out sorted
    ```
-<img width="1920" alt="ad1" src="https://chatgpt.com/s/m_68410e067e7481918749a2aea67bc24b">
+![Image](https://github.com/user-attachments/assets/4a849508-bdb4-4a43-83d1-6c41ed749e22)
