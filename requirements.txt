@@ -3,7 +3,3 @@ scikit-learn
 nltk
 beautifulsoup4
 joblib
-SpeechRecognition
-sounddevice
-pyttsx3
-numpy
